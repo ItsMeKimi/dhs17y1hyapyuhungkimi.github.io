@@ -10,4 +10,4 @@ My name is Yap Yu Hung Kimi. I am a student of Dunman High School. Currently in 
 <img src="photo.jpg"/><ul>
 <p>These are the things I love the most </p> 
 <li>Playing Online Games</li>
-<a href="http://blog.dota2.com/"> Online Game</a>
+<a href="https://clashroyale.com/"> Online Game</a>
